@@ -2,12 +2,19 @@
   "name": "YProxy",
   "version": "0.0.1",
   "dependencies": {
-    "express": "2.5.x",
-    "jade": ">= 0.0.1",
-    "request": "2.2.x",
+    "cliff": "^0.1.10",
     "colors": "0.5.x",
-    "underscore": "1.2.x",
     "cradle": "0.x",
-    "forever": "0.7.x"
+    "daemon": "^1.1.0",
+    "express": "2.5.x",
+    "forever": "0.7.x",
+    "jade": ">= 0.0.1",
+    "nconf": "^0.7.1",
+    "portfinder": "^0.4.0",
+    "request": "2.2.x",
+    "timespan": "^2.3.0",
+    "uglify-js": "^2.4.22",
+    "underscore": "1.2.x",
+    "vargs": "^0.1.0"
   }
 }
